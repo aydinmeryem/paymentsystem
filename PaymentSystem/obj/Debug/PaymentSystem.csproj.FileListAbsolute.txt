@@ -1,0 +1,330 @@
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\PaymentSystem.dll.config
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\PaymentSystem.dll
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\PaymentSystem.pdb
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\roslyn\csc.exe
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\roslyn\csc.exe.config
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\roslyn\csc.rsp
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\roslyn\csi.exe
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\roslyn\csi.exe.config
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\roslyn\csi.rsp
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\roslyn\Microsoft.Managed.Core.targets
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\roslyn\System.AppContext.dll
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\roslyn\System.Collections.Immutable.dll
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\roslyn\System.Console.dll
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\roslyn\System.IO.Compression.dll
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\roslyn\System.IO.FileSystem.dll
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\roslyn\System.IO.Pipes.AccessControl.dll
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\roslyn\System.IO.Pipes.dll
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\roslyn\System.Reflection.Metadata.dll
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\roslyn\System.Security.AccessControl.dll
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\roslyn\System.Security.Claims.dll
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\roslyn\System.Security.Principal.Windows.dll
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\roslyn\System.ValueTuple.dll
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\roslyn\System.Xml.XmlDocument.dll
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\roslyn\System.Xml.XPath.dll
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\roslyn\vbc.exe
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\roslyn\vbc.exe.config
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\roslyn\vbc.rsp
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\roslyn\VBCSCompiler.exe
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\roslyn\VBCSCompiler.exe.config
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\Microsoft.Web.Infrastructure.dll
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\System.Web.Helpers.dll
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\System.Web.Mvc.dll
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\System.Web.Razor.dll
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\System.Web.Webpages.Deployment.dll
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\System.Web.Webpages.dll
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\System.Web.Webpages.Razor.dll
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\System.Web.Razor.xml
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\System.Web.Webpages.xml
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\System.Web.Webpages.Deployment.xml
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\System.Web.Webpages.Razor.xml
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\System.Web.Helpers.xml
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\System.Web.Mvc.xml
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\obj\Debug\PaymentSystem.csproj.CoreCompileInputs.cache
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\obj\Debug\PaymentSystem.csproj.CopyComplete
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\obj\Debug\PaymentSystem.dll
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\obj\Debug\PaymentSystem.pdb
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\EntityFramework.dll
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\EntityFramework.SqlServer.dll
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\EntityFramework.xml
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\EntityFramework.SqlServer.xml
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\Microsoft.IdentityModel.Logging.dll
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\Microsoft.IdentityModel.Logging.xml
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\Microsoft.AspNet.Identity.Core.dll
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\Microsoft.Owin.dll
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\Microsoft.Owin.FileSystems.dll
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\Microsoft.Owin.Security.Cookies.dll
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\Microsoft.Owin.Security.dll
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\Microsoft.Owin.Security.OAuth.dll
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\Newtonsoft.Json.dll
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\Owin.dll
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\Microsoft.AspNet.Identity.Core.xml
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\Microsoft.Owin.xml
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\Microsoft.Owin.FileSystems.xml
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\Microsoft.Owin.Security.xml
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\Microsoft.Owin.Security.Cookies.xml
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\Microsoft.Owin.Security.OAuth.xml
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\bin\Newtonsoft.Json.xml
+M:\Masaüstü\UPTPaymentSystem\PaymentSystem\PaymentSystem\obj\Debug\PaymentSystem.csprojAssemblyReference.cache
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\PaymentSystem.dll.config
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\PaymentSystem.dll
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\PaymentSystem.pdb
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\roslyn\csc.exe
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\roslyn\csc.exe.config
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\roslyn\csc.rsp
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\roslyn\csi.exe
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\roslyn\csi.exe.config
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\roslyn\csi.rsp
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\roslyn\Microsoft.Managed.Core.targets
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\roslyn\System.AppContext.dll
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\roslyn\System.Collections.Immutable.dll
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\roslyn\System.Console.dll
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\roslyn\System.IO.Compression.dll
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\roslyn\System.IO.FileSystem.dll
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\roslyn\System.IO.Pipes.AccessControl.dll
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\roslyn\System.IO.Pipes.dll
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\roslyn\System.Reflection.Metadata.dll
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\roslyn\System.Security.AccessControl.dll
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\roslyn\System.Security.Claims.dll
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\roslyn\System.Security.Principal.Windows.dll
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\roslyn\System.ValueTuple.dll
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\roslyn\System.Xml.XmlDocument.dll
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\roslyn\System.Xml.XPath.dll
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\roslyn\vbc.exe
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\roslyn\vbc.exe.config
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\roslyn\vbc.rsp
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\roslyn\VBCSCompiler.exe
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\roslyn\VBCSCompiler.exe.config
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\EntityFramework.dll
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\EntityFramework.SqlServer.dll
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\Microsoft.AspNet.Identity.Core.dll
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\Microsoft.IdentityModel.Logging.dll
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\Microsoft.Owin.dll
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\Microsoft.Owin.FileSystems.dll
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\Microsoft.Owin.Security.Cookies.dll
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\Microsoft.Owin.Security.dll
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\Microsoft.Owin.Security.OAuth.dll
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\Microsoft.Web.Infrastructure.dll
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\Newtonsoft.Json.dll
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\Owin.dll
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\System.Web.Helpers.dll
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\System.Web.Mvc.dll
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\System.Web.Razor.dll
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\System.Web.Webpages.Deployment.dll
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\System.Web.Webpages.dll
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\System.Web.Webpages.Razor.dll
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\EntityFramework.xml
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\EntityFramework.SqlServer.xml
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\Microsoft.AspNet.Identity.Core.xml
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\Microsoft.IdentityModel.Logging.xml
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\Microsoft.Owin.xml
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\Microsoft.Owin.FileSystems.xml
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\Microsoft.Owin.Security.xml
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\Microsoft.Owin.Security.Cookies.xml
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\Microsoft.Owin.Security.OAuth.xml
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\Newtonsoft.Json.xml
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\System.Web.Razor.xml
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\System.Web.Webpages.xml
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\System.Web.Webpages.Deployment.xml
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\System.Web.Webpages.Razor.xml
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\System.Web.Helpers.xml
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\System.Web.Mvc.xml
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\obj\Debug\PaymentSystem.csproj.CoreCompileInputs.cache
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\obj\Debug\PaymentSystem.csproj.CopyComplete
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\obj\Debug\PaymentSystem.dll
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\obj\Debug\PaymentSystem.pdb
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\Microsoft.Extensions.Logging.Abstractions.dll
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\Quartz.dll
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\System.Buffers.dll
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\System.Diagnostics.DiagnosticSource.dll
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\System.Memory.dll
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\System.Numerics.Vectors.dll
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\System.Runtime.CompilerServices.Unsafe.dll
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\Microsoft.Extensions.Logging.Abstractions.xml
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\Quartz.xml
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\System.Buffers.xml
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\System.Diagnostics.DiagnosticSource.xml
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\System.Memory.xml
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\System.Numerics.Vectors.xml
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\System.Runtime.CompilerServices.Unsafe.xml
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\Autofac.dll
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\Autofac.Extras.Quartz.dll
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\Microsoft.Bcl.AsyncInterfaces.dll
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\Quartz.Jobs.dll
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\Quartz.Serialization.Json.dll
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\System.Threading.Tasks.Extensions.dll
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\Autofac.pdb
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\Autofac.xml
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\Autofac.Extras.Quartz.xml
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\Microsoft.Bcl.AsyncInterfaces.xml
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\Quartz.Jobs.xml
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\Quartz.Serialization.Json.xml
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\bin\System.Threading.Tasks.Extensions.xml
+M:\Masaüstü\UPTPaymentSystem - Kopya\PaymentSystem\PaymentSystem\obj\Debug\PaymentSystem.csprojAssemblyReference.cache
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\PaymentSystem.dll.config
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\PaymentSystem.dll
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\PaymentSystem.pdb
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\roslyn\csc.exe
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\roslyn\csc.exe.config
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\roslyn\csc.rsp
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\roslyn\csi.exe
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\roslyn\csi.exe.config
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\roslyn\csi.rsp
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\roslyn\Microsoft.Managed.Core.targets
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\roslyn\System.AppContext.dll
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\roslyn\System.Collections.Immutable.dll
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\roslyn\System.Console.dll
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\roslyn\System.IO.Compression.dll
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\roslyn\System.IO.FileSystem.dll
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\roslyn\System.IO.Pipes.AccessControl.dll
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\roslyn\System.IO.Pipes.dll
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\roslyn\System.Reflection.Metadata.dll
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\roslyn\System.Security.AccessControl.dll
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\roslyn\System.Security.Claims.dll
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\roslyn\System.Security.Principal.Windows.dll
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\roslyn\System.ValueTuple.dll
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\roslyn\System.Xml.XmlDocument.dll
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\roslyn\System.Xml.XPath.dll
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\roslyn\vbc.exe
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\roslyn\vbc.exe.config
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\roslyn\vbc.rsp
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\roslyn\VBCSCompiler.exe
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\roslyn\VBCSCompiler.exe.config
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\Autofac.dll
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\Autofac.Extras.Quartz.dll
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\EntityFramework.dll
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\EntityFramework.SqlServer.dll
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\Microsoft.AspNet.Identity.Core.dll
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\Microsoft.Bcl.AsyncInterfaces.dll
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\Microsoft.Extensions.Logging.Abstractions.dll
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\Microsoft.IdentityModel.Logging.dll
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\Microsoft.Owin.dll
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\Microsoft.Owin.FileSystems.dll
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\Microsoft.Owin.Security.Cookies.dll
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\Microsoft.Owin.Security.dll
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\Microsoft.Owin.Security.OAuth.dll
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\Microsoft.Web.Infrastructure.dll
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\Newtonsoft.Json.dll
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\Owin.dll
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\Quartz.dll
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\Quartz.Jobs.dll
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\Quartz.Serialization.Json.dll
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\System.Buffers.dll
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\System.Diagnostics.DiagnosticSource.dll
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\System.Memory.dll
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\System.Numerics.Vectors.dll
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\System.Runtime.CompilerServices.Unsafe.dll
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\System.Threading.Tasks.Extensions.dll
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\System.Web.Helpers.dll
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\System.Web.Mvc.dll
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\System.Web.Razor.dll
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\System.Web.Webpages.Deployment.dll
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\System.Web.Webpages.dll
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\System.Web.Webpages.Razor.dll
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\Autofac.pdb
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\Autofac.xml
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\Autofac.Extras.Quartz.xml
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\EntityFramework.xml
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\EntityFramework.SqlServer.xml
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\Microsoft.AspNet.Identity.Core.xml
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\Microsoft.Bcl.AsyncInterfaces.xml
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\Microsoft.Extensions.Logging.Abstractions.xml
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\Microsoft.IdentityModel.Logging.xml
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\Microsoft.Owin.xml
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\Microsoft.Owin.FileSystems.xml
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\Microsoft.Owin.Security.xml
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\Microsoft.Owin.Security.Cookies.xml
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\Microsoft.Owin.Security.OAuth.xml
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\Newtonsoft.Json.xml
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\Quartz.xml
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\Quartz.Jobs.xml
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\Quartz.Serialization.Json.xml
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\System.Buffers.xml
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\System.Diagnostics.DiagnosticSource.xml
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\System.Memory.xml
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\System.Numerics.Vectors.xml
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\System.Runtime.CompilerServices.Unsafe.xml
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\System.Threading.Tasks.Extensions.xml
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\System.Web.Razor.xml
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\System.Web.Webpages.xml
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\System.Web.Webpages.Deployment.xml
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\System.Web.Webpages.Razor.xml
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\System.Web.Helpers.xml
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\System.Web.Mvc.xml
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\obj\Debug\PaymentSystem.csprojAssemblyReference.cache
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\obj\Debug\PaymentSystem.csproj.CoreCompileInputs.cache
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\obj\Debug\PaymentSystem.csproj.CopyComplete
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\obj\Debug\PaymentSystem.dll
+M:\Masaüstü\UPTPaymentSystem - MeryemAydın\PaymentSystem\PaymentSystem\obj\Debug\PaymentSystem.pdb

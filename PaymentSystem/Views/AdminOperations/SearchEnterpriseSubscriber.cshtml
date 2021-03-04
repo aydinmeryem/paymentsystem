@@ -1,0 +1,23 @@
+﻿@model PaymentSystem.Models.EnterpriseDataModel
+@{
+    ViewBag.Title = "SearchEnterpriseSubscriber";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-lg-6">
+            <p>Tüzel Müşteri Sorgula</p>
+            <form>
+                <div class="form-group">
+                    <label for="tax">Vergi Numarası:</label>
+                    <input class="form-control" type="text" id="tax_" name="tax_" />
+                </div>
+                <div class="form-group">
+                    <input class="form-control" type="submit" id="Abone_Ara" formaction="@Url.Action("SearchEnterpriseSubscriberResult","AdminOperations")" />
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+

@@ -1,0 +1,23 @@
+﻿@model PaymentSystem.Models.ConsumerDataModel
+@{
+    ViewBag.Title = "SearchSubscriber";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-lg-6">
+            <p>Bireysel Müşteri Sorgula</p>
+            <form>
+                <div class="form-group">
+                    <label for="tc">TC Kimlik No:</label>
+                    <input class="form-control" type="text" id="tc_" name="tc_" />
+                </div>
+                <div class="form-group">
+                    <input class="form-control" type="submit" id="Abone_Ara" formaction="@Url.Action("SearchConsumerSubscriberResult","AdminOperations")" />
+                </div>
+            </form>
+        </div>        
+    </div>
+</div>
+

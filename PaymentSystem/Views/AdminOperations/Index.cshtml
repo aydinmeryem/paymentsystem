@@ -1,0 +1,55 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<style>
+    .main_tabs {
+        box-sizing: border-box;
+        width: 100%;
+        height: 150px;
+        background-color: darkslategrey;
+        border-radius: 5px;
+        border-width:1px;
+        align-content: center;
+        text-align: center;
+        border: solid;
+        border-color: dimgray;
+        color: white;
+        margin-top:50px;
+    }
+
+    .stabs {
+        align-content: center;
+        text-align: center;
+        color: white;
+        font-size: 20px;
+        margin-top:20%;
+    }
+    .stab {
+        align-content: center;
+        text-align: center;
+        color: white;
+        font-size: 20px;
+        margin-top: 5%;
+    }
+</style>
+
+<div class="container">
+    <div class="row">
+        <div class="col-lg-3 main_tabs">
+            <a href="@Url.Action("CreateNewSubscriber","AdminOperations")"><div class="stabs">Yeni Abone Ekle</div></a>
+        </div>
+        <div class="col-lg-3 main_tabs">
+            <a href="@Url.Action("SearchConsumerSubscriber","AdminOperations")"><div class="stabs">Bireysel Abone Sorgulama / Fatura Görüntüleme / Fatura Ödeme</div></a>            
+        </div>
+        <div class="col-lg-3 main_tabs">
+            <a href="@Url.Action("SearchEnterpriseSubscriber","AdminOperations")"><div class="stabs">Tüzel Abone Sorgulama / Fatura Görüntüleme / Fatura Ödeme</div></a>
+        </div>
+        <div class="col-lg-3 main_tabs" style="float:right;">
+            <a href="@Url.Action("SubscriptionTransaction","AdminOperations")"><div class="stabs">Aboneliği Aktifleştir / Pasifleştir</div></a>
+        </div>
+    </div>
+</div>
+

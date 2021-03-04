@@ -1,0 +1,91 @@
+﻿@model PaymentSystem.Models.CreateDeleteSubscriberModel
+@{
+    ViewBag.Title = "CreateNewSubscriber";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-lg-6">
+            <h3>Bireysel Müşteri Aboneliği Oluştur</h3>
+            <form>
+                @Html.AntiForgeryToken()
+                <div class="form-group">
+                    <label for="cusername">Kullanıcı Adı:</label>
+                    <input class="form-control" type="text" id="username1" name="username1" />
+                </div>
+                <div class="form-group">
+                    <label for="conname">İsim:</label>
+                    <input class="form-control" type="text" id="conname" name="conname" />
+                </div>
+                <div class="form-group">
+                    <label for="surname">Soyisim:</label>
+                    <input class="form-control" type="text" id="surname" name="surname" />
+                </div>
+                <div class="form-group">
+                    <label for="tc">TC Kimlik No:</label>
+                    <input class="form-control" type="text" id="tc" name="tc" />
+                </div>
+                <div class="form-group">
+                    <label for="conphone">Telefon Numarası:</label>
+                    <input class="form-control" type="text" id="conphone" name="conphone" />
+                </div>
+                <div class="form-group">
+                    <label for="conemail">Email Adresi:</label>
+                    <input class="form-control" type="text" id="conemail" name="conemail" />
+                </div>
+                <div class="form-group">
+                    <label for="conpass">Geçici Şifre:</label>
+                    <input class="form-control" type="text" id="conpass" name="conpass" />
+                </div>
+                <div class="form-group">
+                    <label for="conisactive">Aboneliği Aktifleştir:</label><br />
+                    <input class="form-control" type="radio" id="conisactive" name="conisactive" value="true" />
+                </div>
+                <div class="form-group">
+                    <input class="form-control" type="submit" id="Ekle" formaction="@Url.Action("CreateNewConsumerSubscriber","AdminOperations")" />
+                    @Html.Raw(TempData["Message"])
+                </div>
+            </form>
+        </div>
+        <div class="col-lg-6">
+            <h3>Tüzel Müşteri Aboneliği Oluştur</h3>
+            <form>
+                @Html.AntiForgeryToken()
+                <div class="form-group">
+                    <label for="entusername">Kullanıcı Adı:</label>
+                    <input class="form-control" type="text" id="username2" name="username2" />
+                </div>
+                <div class="form-group">
+                    <label for="entname">Firma İsmi:</label>
+                    <input class="form-control" type="text" id="entname" name="entname" />
+                </div>
+                <div class="form-group">
+                    <label for="enttax">Vergi No:</label>
+                    <input class="form-control" type="text" id="tax" name="tax" />
+                </div>
+                <div class="form-group">
+                    <label for="endphone">Telefon Numarası:</label>
+                    <input class="form-control" type="text" id="entphone" name="entphone" />
+                </div>
+                <div class="form-group">
+                    <label for="endemail">Email Adresi:</label>
+                    <input class="form-control" type="text" id="entemail" name="entemail" />
+                </div>
+                <div class="form-group">
+                    <label for="endpass">Geçici Şifre:</label>
+                    <input class="form-control" type="text" id="entpass" name="entpass" />
+                </div>
+                <div class="form-group">
+                    <label for="endisactive">Aboneliği Aktifleştir:</label><br />
+                    <input class="form-control" type="radio" id="entisactive" name="entisactive" value="true" />
+                </div>
+                <div class="form-group">
+                    <input class="form-control" type="submit" id="Ekle" formaction="@Url.Action("CreateNewEnterpriseSubscriber","AdminOperations")" />
+                    @Html.Raw(TempData["Message"])
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+

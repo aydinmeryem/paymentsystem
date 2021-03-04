@@ -1,0 +1,45 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    .main_tab {
+        box-sizing: border-box;
+        width: 100%;
+        height: 300px;
+        background-color: darkslategrey;
+        border-radius: 5px;
+        align-content: center;
+        text-align: center;
+        border: solid;
+        border-color: dimgray;
+        border-width: 1px;
+        color: white;
+        margin-top:50px;
+    }
+    .tabs{
+        align-content:center;
+        text-align:center;
+        color:white;
+        font-size:20px;
+        margin:0;
+        position:absolute;
+        top:50%;
+        left:50%;
+        margin-right:-50%;
+        transform:translate(-50%,-50%);
+    }
+</style>
+
+<div class="container">
+    <div class="row">        
+        <div class="col-lg-6 main_tab">
+            <a href="@Url.Action("ConsumerLogin","Account",new { LoginType="con"})"><div class="tabs">Bireysel Müşteri Girişi</div></a>
+        </div>
+        <div class="col-lg-6 main_tab">
+            <a href="@Url.Action("EnterpriseLogin","Account",new { LoginType="ent"})"><div class="tabs">Tüzel Müşteri Girişi</div></a>
+        </div>
+    </div>
+</div>

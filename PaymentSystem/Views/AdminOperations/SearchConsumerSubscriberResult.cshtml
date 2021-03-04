@@ -1,0 +1,70 @@
+﻿@model PaymentSystem.Models.ConsumerDataModel
+@{
+    ViewBag.Title = "SearchConsumerSubscriberResult";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+    var r = TempData["result"];
+}
+
+<script type="text/javascript">
+
+    $(document).ready(function () {
+        if (@ViewBag.IsReload== true) {
+            location.reload();
+    }
+    });
+
+</script>
+
+<style>
+    .unpaid {
+        background-color: red;
+        color: white;
+    }
+
+    .paid {
+        background-color: green;
+        color: white;
+    }
+</style>
+<div class="container">
+    <div class="row">
+        <div class="col-lg-12">
+            <h4>Searching result for<br /> @r</h4>
+        </div>
+        <div class="col-lg-12">
+            <table class="table table-striped table-responsive">
+                <thead>
+                    <tr>
+                        <th>FATURA ID</th>
+                        <th>OLUŞTURULMA TARİHİ</th>
+                        <th>SON ÖDEME TARİHİ</th>
+                        <th>FATURA TUTARI</th>
+                        <th>DURUM</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @{
+                        foreach (var details in Model.InvoiceDetails)
+                        {
+                            <tr>
+                                <td>@details.bill_id</td>
+                                <td>@details.creationdate</td>
+                                <td>@details.duedate</td>
+                                <td>@details.billamount</td>
+                                @if (details.ispaid == false)
+                                {
+                                    <td><span class="unpaid">Ödenmedi / <a href="@Url.Action("PayInvoiceConsumer_","AdminOperations",new { tc_=details.tc_id,id=details.bill_id})" class="btn btn-success">Faturayı Öde</a></span></td>
+                                }
+                                else
+                                {
+                                    <td><span class="paid">Ödendi</span></td>
+                                }
+                            </tr>
+                        }
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+

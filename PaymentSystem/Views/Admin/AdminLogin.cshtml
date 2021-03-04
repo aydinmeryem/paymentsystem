@@ -1,0 +1,43 @@
+﻿@model PaymentSystem.Models.AdminLoginModel
+@{
+    Layout = null;
+}
+
+<link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<!------ Include the above in your HEAD tag ---------->
+<body>
+    <div id="login">
+        <h3 class="text-center text-white pt-5">Login form</h3>
+        <div class="container">
+            <div id="login-row" class="row justify-content-center align-items-center">
+                <div id="login-column" class="col-md-6">
+                    <div id="login-box" class="col-md-12">
+                        @using (Html.BeginForm("AdminLogin", "Admin", FormMethod.Post))
+                        {
+                            @Html.AntiForgeryToken()
+                            <h3 class="text-center text-info">Login</h3>
+                            <div class="form-group">
+                                @Html.LabelFor(model => model.admin_username)
+                                @*<label for="username" class="text-info">Username:</label><br>*@
+                                @Html.TextBoxFor(model => model.admin_username, new { @class = "form-control", placeholder = "Admin Kullanıcı Adınızı Giriniz" })
+                                @*<input type="text" name="username" id="username" class="form-control">*@
+                                @Html.ValidationMessageFor(model => model.admin_username, "", new { @class = "text-danger" })
+                            </div>
+                            <div class="form-group">
+                                @Html.LabelFor(model => model.admin_password)
+                                @Html.PasswordFor(model => model.admin_password, new { @class = "form-control", placeholder = "Admin Şifrenizi Giriniz" })
+                                @Html.ValidationMessageFor(model => model.admin_password, "", new { @class = "text-danger" })
+                            </div>
+                            <div class="form-group">
+                                <button type="submit" name="submit" class="btn btn-info btn-md">Giriş Yap</button>
+                            </div>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
